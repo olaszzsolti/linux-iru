@@ -1,0 +1,161 @@
+
+
+   Információs rendszerek üzemeltetése
+         -- Linux admin labor --
+           --  jegyzőkönyv --
+            --  v. 9.2.01 --
+
+
+Aktuális idő:  2022. 03. 18., 10:39:21
+Az Ön NEPTUN kódja: lhzjfg
+Az Ön betűje az ábécéből a: B
+
+A vituális gép IP címe: 192.168.150.64
+A gazadgép IP címe: 192.168.150.1
+A mysql újraindítása.......................[SIKERÜLT]
+Az Apache újraindítása.....................[SIKERÜLT]
+
+Tsoukalos regisztrálása....................[SIKERÜLT]
+Csaló regisztrálása........................[SIKERÜLT]
+
+
+>>>>> 1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1.5. feladat:
+Pingelés 1.................................[SIKERÜLT]
+Pingelés 2.................................[SIKERÜLT]
+                                                   +1
+
+1.6. feladat:
+Felhasználók ellenőrzése...................[SIKERÜLT]
+                                                   +1
+
+1.4. feladat:
+SSH ellenőrzése/laboruser/helyi............[SIKERÜLT]
+SSH ellenőrzése/laboruser/távoli...........[SIKERÜLT]
+                                                   +1
+
+1.7. feladat:
+Felhasználói jogosult. ellenőrzése.........[SIKERÜLT]
+                                                   +1
+
+1.8. feladat:
+root kitiltása sshd_configgal..............[SIKERÜLT]
+                                                   +1
+
+1.10. feladat:
+mysql megnyitása rendszergazdaként.....[NEM SIKERÜLT]
+                                                    0
+
+1.14. feladat:
+students adatbázis keresése................[SIKERÜLT]
+                                                   +1
+
+1.16. feladat:
+Mekk Elek az új tanuló..............[FELVÉTELT NYERT]
+Táblák sorainak számlálása.................[SIKERÜLT]
+                                                   +1
+
+
+>>>>> 2 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+2.1. feladat:
+Böngészés ellenőrzése......................[SIKERÜLT]
+                                                   +1
+
+2.3. feladat:
+Böngészés: irulabor.vmware.................[SIKERÜLT]
+                                                   +1
+
+2.4. feladat:
+Böngészés: irulabor.vmware/vedett..........[SIKERÜLT]
+                                                   +1
+
+2.5. feladat:
+Böngészés: irulabor.vmware/vedett l1...[NEM SIKERÜLT]
+Böngészés: irulabor.vmware/vedett l2.......[SIKERÜLT]
+Böngészés: irulabor.vmware/vedett l3...[NEM SIKERÜLT]
+Böngészés: irulabor.vmware/vedett l4...[NEM SIKERÜLT]
+                                                    0
+
+2.6. feladat:
+Böngészés: nagyonvedett l1.............[NEM SIKERÜLT]
+Böngészés: nagyonvedett l2.................[SIKERÜLT]
+Böngészés: nagyonvedett l3.............[NEM SIKERÜLT]
+Böngészés: nagyonvedett l4.............[NEM SIKERÜLT]
+                                                    0
+
+2.8. feladat:
+Böngészés: nyilvános, .htaccess........[NEM SIKERÜLT]
+                                                    0
+
+2.9. feladat:
+Böngészés: nyilvános, listázás.........[NEM SIKERÜLT]
+                                                    0
+
+
+>>>>> 3 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+3.1. feladat:
+Vendor id..................................[SIKERÜLT]
+                                                   +1
+
+3.2. feladat:
+Üres sorok (1).............................[SIKERÜLT]
+Üres sorok (2).............................[SIKERÜLT]
+                                                   +1
+
+3.3. feladat:
+Maradék................................[NEM SIKERÜLT]
+                                                    0
+
+3.4. feladat:
+Klónozás...................................[SIKERÜLT]
+Ki vagyok én?..............................[SIKERÜLT]
+                                                   +1
+
+Klónok (ex)terminálása.....................[SIKERÜLT]
+
+3.5. feladat:
+CSV konvertálás (,)....................[NEM SIKERÜLT]
+CSV konvertálás (;)....................[NEM SIKERÜLT]
+CSV konvertálás (,;)...................[NEM SIKERÜLT]
+                                                    0
+
+3.6. feladat:
+diff...................................[NEM SIKERÜLT]
+                                                    0
+
+3.7. feladat:
+Csoportok..............................[NEM SIKERÜLT]
+                                                    0
+
+3.8. feladat:
+Gyakoriság.............................[NEM SIKERÜLT]
+                                                    0
+
+Tsoukalos törlése..........................[SIKERÜLT]
+
+
+SIKERES RÉSZFELADAT:                   12
+SIKERES (opcionális) RÉSZFELADAT:      1
+ELRONTOTT RÉSZFELADAT:                 10
+DEFICIT:                               0
+
+%:                   85.71 42.85 50.00
+
+ÍTÉLET:     SIKERÜLT
+Ellenőrző összeg:
+(2022. 03. 18., 10:39:21, lhzjfg): 1 1 1
+ 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0
+ :: 85.71 42.85 50.00 :: 1
+
+Kód: 
+36c2bc306aa2fa1c0f9c47358ca53d5045b16ffc
+
+
+         -- jegyzőkönyv vége --
+         -- Linux admin labor --
+   Információs rendszerek üzemeltetése
+
+
